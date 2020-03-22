@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51b4e844-6c09-4b79-abae-c3fb627035c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/SortAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/Tuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/function/FunctionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/function/LambdaDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/function/PatternDesign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/function/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/function/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/function/StreamDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/tb/algorithm/function/input.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,18 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tb/function/LambdaDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/tb/function/Person.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -204,11 +202,6 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -328,12 +321,12 @@
       <workItem from="1584776994705" duration="6055000" />
       <workItem from="1584848231723" duration="1215000" />
       <workItem from="1584860599408" duration="10847000" />
-      <workItem from="1584880358305" duration="1136000" />
+      <workItem from="1584880358305" duration="1755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19253000" />
+    <option name="totallyTimeSpent" value="19872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -552,6 +545,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="45" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="33" lean-forward="true" selection-end-line="38" />
         </state>
       </provider>
     </entry>
