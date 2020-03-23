@@ -40,6 +40,14 @@ public class StreamDemo {
 
     }
 
+    /**
+     * @param i        尝试次数
+     * @param t
+     * @param function 入参
+     * @param <T>      入参类型
+     * @param <V>      出参类型
+     * @return
+     */
     public static <T, V> V retry(int i, T t, Function<T, V> function) {
         return Stream.generate(() -> function.apply(t))
                 .limit(i)

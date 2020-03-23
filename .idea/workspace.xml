@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b4e844-6c09-4b79-abae-c3fb627035c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Java+8函数式编程.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tb/function/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tb/function/StreamDemo.java" afterDir="false" />
     </list>
@@ -76,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/tb/function/StreamDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="43" column="53" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="53" />
+            <state relative-caret-position="320">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Java/jdk-11.0.6/lib/src.zip!/java.base/java/util/stream/Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="1348" column="16" lean-forward="true" selection-start-line="1348" selection-start-column="16" selection-end-line="1348" selection-end-column="16" />
+            <state relative-caret-position="248">
+              <caret line="1330" column="31" selection-start-line="1330" selection-start-column="31" selection-end-line="1330" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -346,18 +347,25 @@
       <workItem from="1584848231723" duration="1215000" />
       <workItem from="1584860599408" duration="10847000" />
       <workItem from="1584880358305" duration="3555000" />
-      <workItem from="1584969378880" duration="2038000" />
+      <workItem from="1584969378880" duration="2669000" />
     </task>
+    <task id="LOCAL-00001" summary="重复尝试添加retry">
+      <created>1584972852900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584972852900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23710000" />
+    <option name="totallyTimeSpent" value="24341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13831478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13831478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -365,7 +373,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39937598" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39937598" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -387,6 +395,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="重复尝试添加retry" />
+    <option name="LAST_COMMIT_MESSAGE" value="重复尝试添加retry" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -582,20 +594,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tb/function/StreamDemo.java">
+    <entry file="jar://C:/Java/jdk-11.0.6/lib/src.zip!/java.base/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="43" column="53" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="248">
+          <caret line="1330" column="31" selection-start-line="1330" selection-start-column="31" selection-end-line="1330" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.6/lib/src.zip!/java.base/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tb/function/StreamDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="1348" column="16" lean-forward="true" selection-start-line="1348" selection-start-column="16" selection-end-line="1348" selection-end-column="16" />
+        <state relative-caret-position="320">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
